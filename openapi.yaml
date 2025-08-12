@@ -1,0 +1,90 @@
+openapi: 3.1.0
+info:
+  title: Project Management Tools API
+  description: API for generating Gantt charts, S-curves, and dashboards for multi-project control.
+  version: 1.0.0
+servers:
+  - url: https://yourusername.github.io/project-tools-api
+paths:
+  /generate-gantt:
+    post:
+      summary: Generate a Gantt chart
+      operationId: generateGantt
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                projectName:
+                  type: string
+                tasks:
+                  type: array
+                  items:
+                    type: object
+                    properties:
+                      name: { type: string }
+                      start: { type: string, format: date }
+                      end: { type: string, format: date }
+                      progress: { type: number }
+                      dependencies: { type: array, items: { type: string } }
+      responses:
+        '200':
+          description: Gantt chart image URL
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  imageUrl: { type: string }
+
+  /generate-scurve:
+    post:
+      summary: Generate an S-curve from project data
+      operationId: generateSCurve
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                dataPoints:
+                  type: array
+                  items:
+                    type: object
+                    properties:
+                      date: { type: string, format: date }
+                      planned: { type: number }
+                      actual: { type: number }
+      responses:
+        '200':
+          description: S-curve chart URL
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  imageUrl: { type: string }
+
+  /multi-project-dashboard:
+    get:
+      summary: Retrieve multi-project performance dashboard
+      operationId: getDashboard
+      responses:
+        '200':
+          description: Dashboard data
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  projects:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        name: { type: string }
+                        progress: { type: number }
+                        riskLevel: { type: string }
