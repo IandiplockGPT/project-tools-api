@@ -1,1 +1,38 @@
+Feasibility Study Cost Profile and Project S-Curve
+This document provides clarity on the expected cost profile, resourcing logic, and expenditure pattern for the Mixers Australia Feasibility Study and its natural progression into FEED (Front-End Engineering Design). The intent is to frame the work in accordance with Harold Kerzner’s recognised project lifecycle principles.
+ 
+Figure 1: Indicative project S-curve showing how expenditure accumulates as risk is retired and information maturity increases.
+Why an S-Curve Matters
+Kerzner’s project management framework demonstrates that effective projects do not expend capital uniformly. Early phases are deliberately low-cost and high-leverage, while later phases absorb greater expenditure once uncertainty has been reduced.
+Early Feasibility – Controlled Burn Rate
+The initial feasibility period (approximately the first four weeks) is senior-led and intentionally lean. This phase involves the Project Director at approximately 20 hours per week, supported by two full-time engineers. The focus is on system architecture, layout strategy, fixturing concepts, throughput logic, and early risk identification.
+Progressive Ramp-Up and FEED Transition
+As feasibility progresses and key risks are retired, engineering resources are progressively increased, typically to four engineers. This allows parallel development of plant areas and standardisation activities required to convert the solution into a repeatable module.
+
+Productisation and Reusability
+A core objective of this programme is to create a modular, repeatable production system that can be redeployed across multiple Mixers Australia sites. This includes reusable layouts, fixturing strategies, automation philosophies, and delivery sequencing, consistent with Kerzner’s concept of organisational learning.
+Monthly Cash Burn Perspective
+This lifecycle results in a predictable and managed monthly cash burn. Expenditure ramps up through FEED and procurement, peaks during fabrication and installation, and tapers through commissioning, site acceptance, handover, and training.
+Indicative Commercial Profile and Cost Envelope
+This section is provided to support internal alignment and decision-making by outlining the expected order-of-magnitude cost profile for the engineering phases of the project. Cost guidance at this stage is intentionally indicative and limited to Feasibility and FEED (Front-End Engineering Design) activities only.
+The engineering effort is structured to follow a controlled project S-curve, where early expenditure is deliberately modest and senior-led, increasing progressively as information maturity improves and key risks are retired.
+Indicative Monthly Engineering Burn Rate
+For planning purposes, the following indicative monthly ranges are provided for the design phases:
+• Early Feasibility (approximately the first four weeks):
+  Indicative monthly expenditure in the order of $60k–$70k per month, reflecting senior-led engineering supported by a small, focused team.
+
+• Late Feasibility and transition into FEED:
+  Indicative monthly expenditure in the order of $90k–$120k per month, reflecting a progressive ramp-up of engineering resources as parallel workstreams are released.
+These ranges are indicative only and will be refined progressively as the Feasibility Study advances.
+
+Downstream Phases
+Costs associated with procurement, fabrication, installation, commissioning, site acceptance testing, handover, and training will be developed once the Feasibility Study has retired the major risks and the system architecture has been confirmed.
+Overall Capital Budget Alignment
+An important input to the Feasibility Study is an understanding of Mixers Australia’s overall capital budget expectations. There are multiple technically viable ways to deliver this system, ranging from a highly robust, production-optimised solution to a more premium, fully automated configuration.
+
+Understanding whether the desired outcome is closer to a 'Toyota' or a 'Rolls-Royce' solution will directly inform engineering decisions during feasibility and ensure alignment with commercial objectives.
+Reusable module and cost reduction
+When projects are deliberately structured to produce a repeatable and deployable module, rather than a one-off solution, subsequent implementations benefit materially from organisational learning, design reuse, and reduced uncertainty. By investing appropriately in the early Feasibility and FEED phases to thoroughly define system architecture, layouts, fixturing strategies, automation philosophy, and delivery sequencing, the first deployment effectively becomes the reference model for all future installations.
+Based on experience with modularised industrial systems delivered under this methodology, it is reasonable to expect that subsequent deployments of the same module can achieve order-of-magnitude cost reductions of approximately 30% relative to the initial installation. These savings are typically realised through reduced engineering effort, shortened decision cycles, simplified procurement, and elimination of first-of-a-kind risk, rather than through any compromise in performance or robustness. This reinforces the value of treating the initial project as a platform investment, where disciplined upfront engineering delivers compounding benefits across future rollouts.
+
 
