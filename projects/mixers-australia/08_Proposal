@@ -1,1 +1,90 @@
+PROJECT PROPOSAL – Mixers Australia – Concrete Mixing Bowl
+Feasibility Study and Staged FEED Delivery Pathway
+
+
+Client: Mixers Australia
+Authorised Director: Chris Ghassibe
+Prepared by: Ian Diplock – Project Director
+
+
+Date: 6/02/2026
+
+Table of Contents
+PROJECT PROPOSAL – Mixers Australia – Concrete Mixing Bowl	1
+1. Introduction	2
+2. Project Delivery Pathway	2
+3. System Overview	3
+4. Feasibility Study Scope and Deliverables	3
+5. Feasibility Duration	4
+6. FEED (Front-End Engineering Design) Approach	4
+7. Commercial Structure	5
+8. Risk Philosophy	5
+9. Authorisation	5
+
+ 
+
+1. Introduction
+This proposal outlines the delivery of a structured Feasibility Study for Mixers Australia, forming the first and most critical stage in the development of an automated welding and assembly system for concrete mixer bowls.
+
+The Feasibility Study is deliberately positioned as the primary risk-reduction mechanism. Its purpose is to establish technical clarity, confirm system architecture, and retire material, layout, throughput, and integration risks before committing to Front-End Engineering Design (FEED) and subsequent execution.
+2. Project Delivery Pathway
+The project is structured as a disciplined, staged engineering pathway:
+
+• Stage 1 – Feasibility Study
+• Stage 2 – FEED (Front-End Engineering Design)
+• Stage 3 – Detailed Design, Supply, and Execution (subject to separate approval)
+
+Progression from Feasibility into FEED is the natural path. It represents the flow of well-governed industrial projects and ensures that design decisions are made with confidence, traceability, and full awareness of risk.
+ 
+
+3. System Overview
+The proposed system comprises three distinct but fully integrated automated plant areas:
+
+Area A – Seam Welding Cell (Clamshell Joining)
+Area B – Helix Insertion and Welding Cell
+Area C – Final Assembly and Circumferential Welding System
+
+All robotic manipulators, tracks, and positioners will be ABB-based systems. Robotic welding will be undertaken using a Fronius RoboMIG welding package. Exact models, sizes, track lengths, and configurations will be determined during Feasibility and refined during FEED.
+4. Feasibility Study Scope and Deliverables
+The Feasibility Study focuses on defining the system at a level sufficient to enable confident progression into FEED while deliberately avoiding premature equipment commitment.
+
+Deliverable	Description
+Overall Plant Layout	High-level plant layout showing Areas A, B, and C, material flow, and interfaces
+Area-Based Layouts	Concept layouts for each automated area, including spatial allowances
+Preliminary Equipment Envelopes	Indicative envelopes for ABB robots, tracks, positioners, and Fronius RoboMIG systems
+Material Flow Definition	Confirmed flow sequence from clamshells through to completed bowl
+Throughput Validation	Assessment against target production rates and cycle time assumptions
+Risk Register	Identification and mitigation of technical, layout, throughput, and integration risks
+FEED Input Definition	Clear definition of information and decisions required to commence FEED
+
+ 
+5. Feasibility Duration
+The Feasibility Study is expected to require approximately 8–12 weeks. Consistent with Kerzner’s project management principles, this duration is expressed as an indicative planning range rather than a fixed commitment, recognising that feasibility work is inherently discovery-based and dependent on timely access to client inputs and technical information.
+6. FEED (Front-End Engineering Design) Approach
+Following Feasibility sign-off, the project will transition into FEED on an area-by-area basis.
+
+• Each plant area (A, B, and C) will undergo approximately 12 weeks of FEED engineering
+• FEED phases are not cumulative; each area carries its own design duration
+• Upon completion and sign-off of one area, engineering resources may immediately commence FEED on the next area
+
+This approach enables controlled fast-tracking while preserving design quality, safety, and constructability.
+
+7. Commercial Structure
+All Feasibility and FEED activities will be undertaken on a time-based basis using established professional rates. This approach provides transparency, flexibility, and appropriate risk allocation for early-stage engineering.
+
+Service Code	Description	Hourly Rate (Ex GST)	Hourly Rate (Inc GST)
+SE-004	R&D Design Engineer	$250.00	$275.00
+SE-006	Robot Programmer	$250.00	$275.00
+SE-007	PLC Programmer	$250.00	$275.00
+SE-008	Electrical / Mechatronic Design Engineer	$250.00	$275.00
+SE-010	Mechanical Fitter	$150.00	$165.00
+SE-011	Electrician	$150.00	$165.00
+8. Risk Philosophy
+The central purpose of the Feasibility Study is the early and systematic retirement of risk. This includes technical risk, layout and constructability risk, throughput uncertainty, and cost exposure. By resolving these matters prior to FEED, the project materially reduces downstream rework, programme delay, and capital escalation.
+9. Authorisation
+This proposal is issued under the authority of:
+
+Ian Diplock
+Project Director
+
 
